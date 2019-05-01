@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a6c645fa-ac9e-434a-aa2c-845d71ee008a/deploy-status)](https://app.netlify.com/sites/dvhero/deploys)
+
 # Hugo Hero Theme
 
 Hero is a multi-page, multi-purpose theme with fullscreen hero images and fullwidth sections.
